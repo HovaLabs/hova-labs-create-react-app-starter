@@ -1,5 +1,4 @@
 export const breakpoints = {
-  s: 768,
+  s: 0,
   m: 1024,
-  l: 1200
 };
